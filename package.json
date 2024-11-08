@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/Davidtharwat2323/PageObjectModel-PW.git"
   },
-  "scripts": {
+  "scripts": { 
     "ng": "ng",
     "start": "ng serve"
     

@@ -4,7 +4,7 @@ import { PieChartComponent } from "@swimlane/ngx-charts";
 import { delay } from "rxjs-compat/operator/delay";
 //create test cases
 test.beforeEach("open URL", async ({ page }) => {
-    await page.goto("http://localhost:4200/");
+    await page.goto("http://localhost:4401/");
 })
 
 test.describe("IoT DashBoard", ()=>{

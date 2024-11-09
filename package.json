@@ -6,10 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/Davidtharwat2323/PageObjectModel-PW.git"
   },
-  "scripts": { 
+  "scripts": {
     "ng": "ng",
     "start": "ng serve"
-    
   },
   "dependencies": {
     "@angular/animations": "^14.2.12",
@@ -27,6 +26,7 @@
     "@nebular/security": "10.0.0",
     "@nebular/theme": "10.0.0",
     "@swimlane/ngx-charts": "^20.1.2",
+    "@types/ws": "^8.5.13",
     "angular2-chartjs": "0.4.1",
     "bootstrap": "4.3.1",
     "classlist.js": "1.1.20150312",
@@ -51,6 +51,7 @@
     "tslib": "^2.3.1",
     "typeface-exo": "0.0.22",
     "web-animations-js": "^2.3.2",
+    "ws": "^8.18.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {

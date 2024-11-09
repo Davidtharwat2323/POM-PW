@@ -2,7 +2,7 @@
 import {test} from "@playwright/test"
 //create test cases
 test.beforeEach("open URL",async ({page})=>{
- await page.goto("http://localhost:4200/");
+ await page.goto("http://localhost:4401/");
 });
 
 
